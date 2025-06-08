@@ -16,7 +16,7 @@ Bu görselde veri hazırlığından KEGG analizine kadar tüm analiz adımları 
 
 Aşağıdaki PCA grafiği, örnekler arasındaki varyansı ve grupların ayrımını göstermektedir:
 
-![PCA](a285b7fe-0f4c-4d35-8641-5bad046177f5.png)
+![PCA](PCA.png)
 
 ---
 
