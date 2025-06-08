@@ -79,10 +79,10 @@ Her terim için terim adı, p-değeri ve katkıda bulunan gen sayısı raporlan�
 - Bu terimler p-değerine göre sıralanır.
 - İlk 5 KEGG yoluna otomatik olarak bağlantılar oluşturulur:
 
-https://www.genome.jp/dbget-bin/show_pathway?KEGG:04657
-https://www.genome.jp/dbget-bin/show_pathway?KEGG:05323
-https://www.genome.jp/dbget-bin/show_pathway?KEGG:05134
-https://www.genome.jp/dbget-bin/show_pathway?KEGG:04064
-https://www.genome.jp/dbget-bin/show_pathway?KEGG:04668
+- https://www.genome.jp/dbget-bin/show_pathway?KEGG:04657
+- https://www.genome.jp/dbget-bin/show_pathway?KEGG:05323
+- https://www.genome.jp/dbget-bin/show_pathway?KEGG:05134
+- https://www.genome.jp/dbget-bin/show_pathway?KEGG:04064
+- https://www.genome.jp/dbget-bin/show_pathway?KEGG:04668
 
 
