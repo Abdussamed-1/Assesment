@@ -75,9 +75,9 @@ Her terim için terim adı, p-değeri ve katkıda bulunan gen sayısı raporlan�
 
 ## 🧪 KEGG Yol Analizi
 
-- Yalnızca KEGG kaynaklı terimler filtrelenir.
-- Bu terimler p-değerine göre sıralanır.
-- İlk 5 KEGG yoluna otomatik olarak bağlantılar oluşturulur:
+1. Yalnızca KEGG kaynaklı terimler filtrelenir.
+2. Bu terimler p-değerine göre sıralanır.
+3. İlk 5 KEGG yoluna otomatik olarak bağlantılar oluşturulur:
 
  - https://www.genome.jp/dbget-bin/show_pathway?KEGG:04657
  - https://www.genome.jp/dbget-bin/show_pathway?KEGG:05323
