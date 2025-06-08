@@ -22,11 +22,11 @@ Aşağıdaki PCA grafiği, örnekler arasındaki varyansı ve grupların ayrım�
 
 ## 📦 Gerekli Paketler
 
-```r
 library(tidyverse)
 library(DESeq2)
 library(gprofiler2)
 library(ggplot2)
+
 
 Veri Yükleme ve Hazırlama
 assesment_dataset.tsv dosyası yüklenir.
